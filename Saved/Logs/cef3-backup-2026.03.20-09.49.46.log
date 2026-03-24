@@ -1,0 +1,21 @@
+[15872:7808:0320/095127.359:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15872:7808:0320/095127.432:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17440:17444:0320/095135.920:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1EE342B5F02BA67B5B6DBE1F651548E9 will be ignored
+[18360:18364:0320/095141.594:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-3D4743E49AA6D723D1818320436D21E4 will be ignored
+[15872:7808:0320/095635.525:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[15872:7808:0320/095635.609:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[15872:7808:0320/095635.614:WARNING:sad_tab.cc(255)] Tab Killed: https://www.fab.com/
+[15872:7808:0320/095635.742:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[15872:7808:0320/095635.742:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[15872:7808:0320/095636.019:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 215 ms
+[17116:3640:0320/095640.658:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[17116:3640:0320/095640.658:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[17116:3640:0320/095640.658:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[17116:3640:0320/095640.658:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[17116:3640:0320/095640.659:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[17116:3640:0320/095640.659:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[17116:3640:0320/095640.659:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[17116:3640:0320/095640.660:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[15872:7808:0320/095851.505:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[15872:7808:0320/095851.505:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[15872:7808:0320/174946.010:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
