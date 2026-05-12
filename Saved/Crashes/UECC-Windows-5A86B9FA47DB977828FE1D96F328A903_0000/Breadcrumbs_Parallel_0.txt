@@ -1,0 +1,5 @@
+Breadcrumbs 'Parallel'
+ - GaussianBlur
+ - SlateUI Title = Assassin_Creed 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）
+ - RenderGraphExecute - Slate
+ - Frame 63130

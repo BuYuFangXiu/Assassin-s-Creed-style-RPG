@@ -1,4 +1,0 @@
-[43496:39748:0319/183531.052:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[43496:39748:0319/183531.187:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[46796:43260:0319/183543.790:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FAF45CEBA185AAC208B793505A9117EA will be ignored
-[43496:39748:0319/183652.119:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

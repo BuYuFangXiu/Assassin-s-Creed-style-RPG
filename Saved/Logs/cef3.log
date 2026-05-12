@@ -1,4 +1,24 @@
-[5316:6816:0324/103119.684:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5316:6816:0324/103119.786:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10524:8620:0324/103131.609:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-59123D1B38EDE8901D046FAF896E44FD will be ignored
-[5316:6816:0324/113825.081:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[62308:48928:0509/154444.604:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[62308:48928:0509/154444.708:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[60544:49308:0509/154453.552:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-78D56CB870FE5BE7279DBD6254C6BE2E will be ignored
+[62308:57584:0509/154457.542:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[62308:48928:0509/154458.245:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[62308:48928:0509/154458.245:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[62308:48928:0509/154458.245:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[62308:48928:0509/154458.245:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[62308:57584:0509/154458.248:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[62308:48928:0509/154500.542:ERROR:device_event_log_impl.cc(196)] [15:45:00.245] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[52276:60808:0509/154505.880:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[52276:60808:0509/154506.372:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[52276:51688:0509/154506.400:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[52276:51688:0509/154506.400:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[52276:51688:0509/154506.401:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[60588:65052:0509/154506.562:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[60588:65052:0509/154506.573:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[60588:65052:0509/154506.573:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[60588:65052:0509/154506.573:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[52276:51688:0509/154506.573:WARNING:stun_port.cc(442)] Port[4523400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[52276:51688:0509/154506.573:WARNING:stun_port.cc(442)] Port[4f40000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[52276:51688:0509/154506.573:WARNING:stun_port.cc(442)] Port[4f40400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[60304:53132:0509/154718.015:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[62308:48928:0509/160850.347:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
