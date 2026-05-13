@@ -171,9 +171,13 @@
 
 ---
 
-## 🔧 环境配置与 Git LFS
+## 🔧 环境配置与 Git LFS 操作指南
 
 本仓库为纯蓝图项目，所有 `.uasset` 和 `.umap` 文件均使用 Git LFS 管理。
+
+> 本指南适用于 Unreal Engine 纯蓝图项目（`.uasset` / `.umap` 文件较多），使用 Git LFS 管理大文件。
+
+---
 
 **首次克隆与设置：**
 ```bash
