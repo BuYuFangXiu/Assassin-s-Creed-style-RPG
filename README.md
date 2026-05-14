@@ -74,6 +74,8 @@
 - **动态倾斜**：根据角色角速度，在动画蓝图中对 Spine 骨骼进行 X 轴旋转偏移，最大倾斜角度 25°。
 - **动画驱动**：使用 `Blend Space` 1D 根据速度大小切换 idle/walk/jog/sprint 动画；使用 `Blend Space` 2D 根据速度方向和移动方向切换 strafe 动画。
 
+<img src="视角转动与移动.gif" alt="视角转动演示" width="400">
+
 **技术要点：**
 - 动画蓝图变量：`Speed`（float）、`Direction`（float，-180~180）、`IsCrouching`（bool）、`IsSprinting`（bool）。
 - 翻越检测：从角色眼部位置和膝盖位置各发射一条射线，确保无阻挡且高度合适。
