@@ -403,7 +403,7 @@ git lfs pull
 - **解决方案**：使用 `GameplayTag` 监听“击杀”事件，当玩家击杀带有任务标记的敌人时，主动调用 `QuestManager::AdvanceQuest`。
 
 ---
-🔮 待办功能
+### 🔮 待办功能
 
 弓箭/远程武器 + 弹药系统
 
@@ -415,7 +415,7 @@ git lfs pull
 
 ---
 
-🙏 致谢
+### 🙏 致谢
 Gorka Games (Udemy) – 刺客信条风格教程
 
 Epic Games – Unreal Engine 5 及免费资源
