@@ -340,3 +340,22 @@ git lfs pull
 - **解决方案**：在所有玩家专属逻辑的执行入口，加 `Branch` 分支节点，条件为 `IsPlayer == true`，仅 `true` 分支执行玩家 XP/等级/专属 UI 更新逻辑，`false` 分支直接断开不执行，彻底隔离敌我执行路径。
 
 ---
+
+🔮 待办功能
+
+弓箭/远程武器 + 弹药系统
+
+烟雾弹、钩爪等道具
+
+动态昼夜与天气系统
+
+保存/加载游戏进度
+
+---
+
+🙏 致谢
+Gorka Games (Udemy) – 刺客信条风格教程
+
+Epic Games – Unreal Engine 5 及免费资源
+
+GitHub – 代码托管与 LFS 支持
