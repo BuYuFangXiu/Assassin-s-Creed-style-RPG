@@ -5,7 +5,9 @@
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.7-black?logo=unrealengine)
 ![Blueprint](https://img.shields.io/badge/Blueprint-Only-34a7a7)
-![Progress](https://img.shields.io/badge/Progress-51%2F83-yellow)
+![Discord](https://img.shields.io/badge/Discord-join-7289da?logo=discord)
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow?logo=buymeacoffee)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
 
