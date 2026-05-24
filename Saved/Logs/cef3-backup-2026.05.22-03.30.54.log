@@ -1,0 +1,7 @@
+[6996:2180:0522/111647.646:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6996:2180:0522/111647.829:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21872:22228:0522/111711.201:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5E4A3ACC9024B51CC6C47C5C37158419 will be ignored
+[2940:3036:0522/111719.503:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-17E33100BD70DC0E7A2E1D97794647B5 will be ignored
+[6996:2180:0522/111808.932:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[6996:2180:0522/111808.932:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[6996:2180:0522/113054.026:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
