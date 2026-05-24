@@ -3,7 +3,7 @@
 > 基于《Assassin's Creed》刺客信条系列制作的 UE5 纯蓝图项目。  
 > 目标：实现开放世界潜行、跑酷、战斗与 RPG 属性系统。
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.3%2B-black?logo=unrealengine)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.7-black?logo=unrealengine)
 ![Blueprint](https://img.shields.io/badge/Blueprint-Only-34a7a7)
 ![Progress](https://img.shields.io/badge/Progress-51%2F83-yellow)
 
